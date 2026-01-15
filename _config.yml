@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Leïla Njee"
-  avatar : "/assets/images/lenb_photo.jpg"
+  avatar : "/assets/images/lenb_photo.jpeg"
   bio    : "PhD candidate in Agricultural and Resource Economics at UC Berkeley"
   links:
     - label: "GitHub"
