@@ -64,7 +64,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lenjb"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:le.njeeb@berkeley.edu"
 
 footer:
@@ -86,10 +86,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
