@@ -98,7 +98,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # home page (index)
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
 category_archive:
   type: liquid
   path: /categories/
