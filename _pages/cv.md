@@ -36,9 +36,6 @@ For details about my research projects and working papers, see my [Research page
 - End-to-end machine learning pipeline for impact evaluation of historical World Bank redevelopment projects using difference-in-differences estimation
 - Predicted wealth across 1,000+ georeferenced enumeration areas using feature engineering, CNNs, and Ridge regression
 
-**"Competition versus biology: Fertility dynamics in polygynous households in Mali"**
-- Tested whether co-wife competition and economic dependence drive fertility patterns in Malian households using duration analysis and heterogeneity testing
-
 ## Professional Experience
 
 **Graduate Research Assistant** | University of California, Berkeley | 2020-2024
@@ -64,7 +61,11 @@ For details about my research projects and working papers, see my [Research page
 - Presented research outcomes to government stakeholders and subject-matter experts
 - Organized dissemination workshops to government stakeholders and experts to capitalize on lessons learned from experiments
 
-** Field and Research Assistant** | The Abdul Latif Jameel Poverty Action Lab | 2014
+** Field and Research Assistant** | The Abdul Latif Jameel Poverty Action Lab - Europe (France) | 2014
+- Monitored data collection and performed quality assurance of (at the time) largest primary survey across primary schools in France (Mediation sociale program evaluation)
+- Led and conducted phone surveys to parents, supervising 3 enumerators
+- Performed data analysis tasks as requested
+
 
 ## Teaching Experience
 
