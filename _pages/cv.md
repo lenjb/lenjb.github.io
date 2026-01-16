@@ -82,6 +82,7 @@ For full teaching details, see my [Teaching page](/teaching/).
 
 **Applied Machine Learning**
 - Linear and non-linear models, gradient descent, fairness and bias in ML, neural models and deep learning
+- Applications of big data and AI tools to questions pertaining to development economics and developing countries (technical and non-technical considerations)
 
 **Programming & Tools**
 - **Highly proficient:** Python, R, Stata, Jupyter
