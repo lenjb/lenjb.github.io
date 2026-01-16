@@ -5,7 +5,27 @@ author_profile: false
 classes: wide
 ---
 
----
+<style>
+.container-grid {
+  display: grid;
+  grid-template-columns: 60% 35%;
+  gap: 5%;
+  align-items: start;
+  margin-top: 20px;
+}
+
+.profile-photo {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 768px) {
+  .container-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
 
 <div class="container-grid">
     <div class="column">
