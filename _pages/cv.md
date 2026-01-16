@@ -122,7 +122,7 @@ For full teaching details, see my [Teaching page](/teaching/).
 
 ## Languages
 
-**French** (native), **English** (bilingual), **German** (full proficiency)
+**French** (native), **English** (bilingual), **German** (full proficiency), **Spanish** (beginner/intermediate)
 
 
 ---
