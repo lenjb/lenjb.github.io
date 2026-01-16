@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: false
 ---
 
 <img src="/assets/images/lenb_photo.jpeg" alt="Leïla Njee Bugha" style="float: right; width: 250px; margin-left: 20px; margin-bottom: 20px; border-radius: 10px;">
