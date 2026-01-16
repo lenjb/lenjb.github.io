@@ -106,25 +106,23 @@ For full teaching details, see my [Teaching page](/teaching/).
 ## Fellowships & Grants
 
 - Fundraised **$152,000** in research funds over 2019-2025
-- **Ecole Normale Supérieure de Paris-Saclay** "Grande Ecole" Full Scholarship | 2011-2015
+- **Ecole Normale Supérieure de Paris-Saclay** "Grande Ecole" Full Scholarship, 2011-2015
 
 ## Service & Leadership
 
 **Peer Partner to [Development Impact West Africa](https://cega.berkeley.edu/initiative/diwa/&ved=2ahUKEwjU0I62_tyIAxWOATQIHTqDCBIQFnoECAwQAQ&usg=AOvVaw0wOjF_k2atud5gFKvJr_Q-) Fellow** \| Center for Effective Global Action \| 2021, 2024
 
 **Leadership Team, Graduate Admissions** \| Berkeley Economists for Equity \| 2021-2023
-- Organized and led online application bootcamp for 300+ prospective applicants to Berkeley economics PhDs
+- Organized and led online application bootcamp for 300+ prospective applicants to Berkeley economics PhDs [Slides](/assets/pdfs/bootcamp_slides.pdf)
 - Mentored underrepresented students in economics through program access initiatives
 
-
 **Berkeley Economics Development Lunch Seminar Coordinator** \| UC Berkeley \| 2021-2022
-
 
 **Graduate Student Representative** \| UC Berkeley's Rausser College Advisory Board \| 2021-2024
 
 ## Languages
 
-**French** (native) | **English** (bilingual) | **German** (full proficiency)
+**French** (native), **English** (bilingual), **German** (full proficiency)
 
 
 ---
