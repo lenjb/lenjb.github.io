@@ -45,7 +45,6 @@ author_profile: false
 - _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Endline Report** (2019), IFPRI & IRD, Bamako
 - _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Midline Report** (2018), IFPRI, Washington, DC. [PDF](https://hdl.handle.net/10568/146982)
 - _Co-author_, **Warrantage (Inventory Credit) in Burkina Faso Program Endline Report** (2016), IFPRI, DC.
-</ul>
 
 ### Policy and capitalization notes 
 - (in French) _Co-author_, **Agir pour une orientation non sexiste** (2015), Observatoire de la Jeunesse / Fonds d’Expérimentation pour la Jeunesse (FEJ), _Jeunesses: Études et Synthèses No. 25_. [PDF](http://www.injep.fr/sites/default/files/documents/jes25_orientation_non_sexiste.pdf)
