@@ -29,9 +29,7 @@ classes: wide
 
 <div class="container-grid">
     <div class="column">
-      <p>I am a PhD Candidate in Agricultural and Resource Economics at UC Berkeley. My research currently focuses on:
-  - urban development and urban labor markets in Sub-Saharan Africa's growing cities
-  - specific gender dynamics (IPV, polygyny) and their impact on women's economic standing in West Africa</p>
+      <p>I am a PhD Candidate in Agricultural and Resource Economics at UC Berkeley. My research currently focuses on: 1) urban development and urban labor markets in Sub-Saharan Africa's growing cities and 2) specific gender dynamics (IPV, polygyny) and their impact on women's economic standing in West Africa.</p>
 
   <p>In this research, I combine causal inference tools with machine learning and remote sensing to explore topics that were previously little explored due to data availability challenges. In my time at Berkeley, I also served as a Data Science & AI Fellow to the UC Berkeley's D-Lab (2023-2024).</p> 
 
