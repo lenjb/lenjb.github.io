@@ -1,7 +1,6 @@
 ---
 layout: single 
-title: Leila Njee Bugha
-author_profile: false
+title: 
 classes: wide
 ---
 <style>
