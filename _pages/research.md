@@ -3,7 +3,6 @@ title: "Research"
 permalink: /research/
 classes: wide
 author_profile: false
-layout: single
 ---
 
 ## Working papers
@@ -26,7 +25,7 @@ layout: single
 
 
 
-## Selected work in progress
+## Selected work in progress<br>
 
 
 
@@ -43,5 +42,17 @@ layout: single
 
 <strong>The Economic Costs of IPV</strong><br>
 
+## Non-academic writing
 
+### Technical Reports
+- _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Endline Report** (2019), IFPRI & IRD, Bamako
+- _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Midline Report** (2018), IFPRI, Washington, DC. [PDF](https://hdl.handle.net/10568/146982)
+- _Co-author_, **Warrantage (Inventory Credit) in Burkina Faso Program Endline Report** (2016), IFPRI, DC.
+
+### Policy and capitalization notes 
+- (in French) _Co-author_, **Agir pour une orientation non sexiste** (2015), Observatoire de la Jeunesse / Fonds d’Expérimentation pour la Jeunesse (FEJ), _Jeunesses: Études et Synthèses No. 25_. [PDF](https://www.injep.fr/sites/default/files/documents/jes25_orientation_non_sexiste.pdf)
+	
+### Blog writing
+- [Tracking urban expansion through satellite imagery](https://medium.com/@dlab-berkeley/tracking-urban-expansion-through-satellite-imagery-5f51fe34e985) (_Medium_, May 2025)
+- [Using Big Data for Development Economics](https://medium.com/@dlab-berkeley/using-big-data-for-development-economics-97aacf975f01) (_Medium_, March 2024)
 
