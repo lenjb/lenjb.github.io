@@ -1,10 +1,8 @@
 ---
-title: "CV"
+title: "Resume"
 permalink: /cv/
-author_profile: true
-toc: true
-toc_label: "CV Contents"
-toc_icon: "file-alt"
+classes: wide
+author_profile: false
 ---
 
 [Download my CV](../assets/pdfs/CV_jan26.pdf)
