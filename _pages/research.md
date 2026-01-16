@@ -33,10 +33,10 @@ author_profile: false
 </div></details>
 
 
-<strong>The Agricultural and Environmental Costs of Urban Expansion in California</strong> with Fiona Griffin
+<strong>The Agricultural and Environmental Costs of Urban Expansion in California</strong> with Fiona Griffin<br>
 
 
-<strong>The Economic Costs of IPV</strong>
+<strong>The Economic Costs of IPV</strong><br>
 
 ## Non-academic writing
 
