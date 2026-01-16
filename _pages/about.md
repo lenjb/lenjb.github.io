@@ -4,7 +4,7 @@ title: "About"
 author_profile: false
 ---
 
-<img src="/assets/images/lenb_photo.jpeg" alt="Leïla Njee Bugha" style="float: right; width: 250px; margin-left: 20px; margin-bottom: 20px; border-radius: 10px;">
+<img src="/assets/images/lenb_photo.jpeg" alt="Leïla Njee Bugha" style="float: right; width: 350px; margin-left: 25px; margin-bottom: 20px; border-radius: 10px;">
 
 I am a PhD Candidate in Agricultural and Resource Economics at UC Berkeley. My research agenda is two-fold: focusing on urban development and how it affects labor markets in Sub-Saharan Africa, and secondly on gender dynamics and economic behavior in West Africa. In this research, I combine causal inference tools with machine learning and satellite imagery to deliver new insights on topics that have been so far little explored due to challenges around data availability. In my time at Berkeley, I also served as a Graduate Student Instructor for over five years and contributed to the UC Berkeley's D-Lab as a Data Science & AI Fellow (2023-2024). 
 
