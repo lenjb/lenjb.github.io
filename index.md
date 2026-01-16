@@ -5,20 +5,6 @@ author_profile: false
 classes: wide
 ---
 <style>
-/* Remove all margins and padding at the top */
-.page__hero--overlay {
-  display: none;
-}
-
-.page__title {
-  display: none;
-}
-
-.page {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
 .container-grid {
   display: grid;
   grid-template-columns: 55% 40%;
