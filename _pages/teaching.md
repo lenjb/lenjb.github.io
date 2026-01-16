@@ -29,4 +29,4 @@ _Teaching assistant_
 
 
 ## Awards
-- Outstanding Graduate Student Instructor, UC Berkeley 2022 (awarded to top 10% of GSIs on campus based on student evaluations)
+- Outstanding Graduate Student Instructor, UC Berkeley 2022 (<i>awarded to top 10% of GSIs on campus based on student evaluations</i>)
