@@ -23,7 +23,11 @@ author_profile: false
 <div align="left" style="padding-left: 20px;line-height:15px"><p><small> I test whether co-wife rivalry drives fertility up in polygynous households in Mali, using three waves of Demographic and Health Surveys (2006-2018) and following the methodology of Rossi (2018) who found strong competition effects in Senegal. Contrary to findings from Senegal, women in polygynous households in Mali have fewer children than those in monogamous marriages, with most of this difference driven by lower-ranked wives. First wives do not significantly reduce birth spacing after the entry of a second wife, showing little evidence of fertility competition between co-wives. Instead, the primary determinants of fertility are biological constraints—particularly age at marriage and length of reproductive periods—which disproportionately limit second wives who marry later. Social constraints, including limited female agency and restrictive gender norms, also appear to prevent women from treating fertility as a strategic choice variable. These findings suggest that in contexts where women lack decision-making power over reproduction, strategic fertility responses to household dynamics may be muted or impossible, with implications for how we model fertility decisions in settings with strong gender inequality. </small> </p>
 </div></details>
 
+---
+
 ## Selected work in progress
+
+
 
 <par><strong>Spatial mismatch and employment in Nigerian cities</strong></par>
 <details style="margin-bottom:20px;padding-left: 40px;">
@@ -54,9 +58,3 @@ author_profile: false
 
 - [Tracking urban expansion through satellite imagery](https://medium.com/@dlab-berkeley/tracking-urban-expansion-through-satellite-imagery-5f51fe34e985) (_Medium_, May 2025)
 - [Using Big Data for Development Economics](https://medium.com/@dlab-berkeley/using-big-data-for-development-economics-97aacf975f01) (_Medium_, March 2024)
-
-
-
-
-
-
