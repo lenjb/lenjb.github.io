@@ -25,18 +25,17 @@ author_profile: false
 
 ## Selected work in progress
 
-
 <par><strong>Spatial mismatch and employment in Nigerian cities</strong></par>
 <details style="margin-bottom:20px;padding-left: 40px;">
 	<summary>Abstract</summary>
 <div align="left" style="padding-left: 20px;line-height:15px"><p><small> I investigate whether poor urban spatial structure impedes labor market access in Nigerian cities by using city shape metrics as a proxy for transportation infrastructure quality, instrumenting with 1975 geography and projected population growth. Using administrative data from 98 cities (LSMS 2010, 2023) and primary survey data from 2,551 respondents across 13 cities (2025), I find that worse city shapes modestly reduce self-employment (0.23 percentage points for a one standard deviation increase in distortion) and increase commuting costs, but have minimal effects on overall labor force participation or hours worked. An alternative specification using instrumented distance to city center shows that living in cities with greater average distances increases self-employment by 0.37 percentage points but reduces formal employment by 0.24 percentage points, suggesting workers adjust to poor infrastructure by changing job types rather than leaving the labor market. I find no evidence that women are differentially affected by city shape, contrary to expectations about mobility constraints. The small magnitude of effects suggests that urban spatial structure in Nigerian cities affects employment composition more than employment levels, though weak instruments in some specifications limit causal interpretation. </small> </p>
 </div></details>
 
-
 <strong>The Agricultural and Environmental Costs of Urban Expansion in California</strong> with Fiona Griffin<br>
 
-
 <strong>The Economic Costs of IPV</strong><br>
+
+--- 
 
 ## Non-academic writing
 
@@ -47,14 +46,11 @@ author_profile: false
 - _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Midline Report** (2018), IFPRI, Washington, DC. [PDF](https://hdl.handle.net/10568/146982)
 - _Co-author_, **Warrantage (Inventory Credit) in Burkina Faso Program Endline Report** (2016), IFPRI, DC.
 
-
 ### Policy and capitalization notes 
 
 - (in French) _Co-author_, **Agir pour une orientation non sexiste** (2015), Observatoire de la Jeunesse / Fonds d’Expérimentation pour la Jeunesse (FEJ), _Jeunesses: Études et Synthèses No. 25_. [PDF](http://www.injep.fr/sites/default/files/documents/jes25_orientation_non_sexiste.pdf)
 
-	
 ### Blog writing
-
 
 - [Tracking urban expansion through satellite imagery](https://medium.com/@dlab-berkeley/tracking-urban-expansion-through-satellite-imagery-5f51fe34e985) (_Medium_, May 2025)
 - [Using Big Data for Development Economics](https://medium.com/@dlab-berkeley/using-big-data-for-development-economics-97aacf975f01) (_Medium_, March 2024)
