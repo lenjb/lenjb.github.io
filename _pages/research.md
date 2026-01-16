@@ -21,7 +21,7 @@ author_profile: false
 <details style="margin-bottom:20px;padding-left: 40px;">
 	<summary>Abstract</summary>
 <div align="left" style="padding-left: 20px;line-height:15px"><p><small> I test whether co-wife rivalry drives fertility up in polygynous households in Mali, using three waves of Demographic and Health Surveys (2006-2018) and following the methodology of Rossi (2018) who found strong competition effects in Senegal. Contrary to findings from Senegal, women in polygynous households in Mali have fewer children than those in monogamous marriages, with most of this difference driven by lower-ranked wives. First wives do not significantly reduce birth spacing after the entry of a second wife, showing little evidence of fertility competition between co-wives. Instead, the primary determinants of fertility are biological constraints—particularly age at marriage and length of reproductive periods—which disproportionately limit second wives who marry later. Social constraints, including limited female agency and restrictive gender norms, also appear to prevent women from treating fertility as a strategic choice variable. These findings suggest that in contexts where women lack decision-making power over reproduction, strategic fertility responses to household dynamics may be muted or impossible, with implications for how we model fertility decisions in settings with strong gender inequality. </small> </p>
-</div></details>
+</div></details><br>
 
 ## Selected work in progress<br>
 
@@ -36,16 +36,17 @@ author_profile: false
 
 <strong>The Economic Costs of IPV</strong><br>
 
-## Non-academic writing
-	
-	
-	### Technical Reports
-	
-	- _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Endline Report** (2019), IFPRI & IRD, Bamako
-	- _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Midline Report** (2018), IFPRI, Washington, DC. [PDF](https://hdl.handle.net/10568/146982)
-	- _Co-author_, **Warrantage (Inventory Credit) in Burkina Faso Program Endline Report** (2016), IFPRI, DC.
-	
-	### Policy and capitalization notes 
+## Non-academic writing<br>
+
+
+
+### Technical Reports
+- _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Endline Report** (2019), IFPRI & IRD, Bamako
+- _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Midline Report** (2018), IFPRI, Washington, DC. [PDF](https://hdl.handle.net/10568/146982)
+- _Co-author_, **Warrantage (Inventory Credit) in Burkina Faso Program Endline Report** (2016), IFPRI, DC.
+
+
+### Policy and capitalization notes 
 	
 	- (in French) _Co-author_, **Agir pour une orientation non sexiste** (2015), Observatoire de la Jeunesse / Fonds d’Expérimentation pour la Jeunesse (FEJ), _Jeunesses: Études et Synthèses No. 25_. [PDF](http://www.injep.fr/sites/default/files/documents/jes25_orientation_non_sexiste.pdf)
 	
