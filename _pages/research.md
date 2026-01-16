@@ -36,11 +36,9 @@ author_profile: false
 <strong>The Agricultural and Environmental Costs of Urban Expansion in California</strong> with Fiona Griffin
 
 
-<strong> The Economic Costs of IPV </strong>
-
+<strong>The Economic Costs of IPV</strong>
 
 ## Non-academic writing
-
 
 
 ### Technical Reports
@@ -60,6 +58,8 @@ author_profile: false
 
 - [Tracking urban expansion through satellite imagery](https://medium.com/@dlab-berkeley/tracking-urban-expansion-through-satellite-imagery-5f51fe34e985) (_Medium_, May 2025)
 - [Using Big Data for Development Economics](https://medium.com/@dlab-berkeley/using-big-data-for-development-economics-97aacf975f01) (_Medium_, March 2024)
+
+
 
 
 
