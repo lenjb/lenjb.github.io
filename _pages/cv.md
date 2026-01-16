@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: ""
 permalink: /cv/
 classes: wide
 author_profile: false
