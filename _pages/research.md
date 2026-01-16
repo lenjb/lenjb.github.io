@@ -25,7 +25,7 @@ author_profile: false
 
 
 
-## Selected work in progress<br>
+## Selected work in progress
 
 
 
@@ -38,11 +38,15 @@ author_profile: false
 
 
 
-<strong>The Agricultural and Environmental Costs of Urban Expansion in California</strong> with Fiona Griffin<br>
+<strong>The Agricultural and Environmental Costs of Urban Expansion in California</strong> with Fiona Griffin
 
-<strong>The Economic Costs of IPV</strong><br>
+
+<strong>The Economic Costs of IPV</strong>
+
+
 
 ## Non-academic writing
+
 
 ### Technical Reports
 - _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Endline Report** (2019), IFPRI & IRD, Bamako
