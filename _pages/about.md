@@ -32,11 +32,10 @@ classes: wide
       <p>I am a PhD Candidate in Agricultural and Resource Economics at UC Berkeley.</p>
 
   <p>My research currently focuses on:
-    
   - urban development and how it interacts with urban labor markets in Sub-Saharan Africa's growing cities
-  - the interaction of specific gender dynamics (IPV, polygyny) and how these explain/restrain women's economic behavior in West Africa
+  - the interaction of specific gender dynamics (IPV, polygyny) and how these explain/restrain women's economic behavior in West Africa</p>
 
-In this research, I combine causal inference tools with machine learning and remote sensing to explore topics that were previously little explored due to data availability challenges. In my time at Berkeley, I also served as a Data Science & AI Fellow to the UC Berkeley's D-Lab (2023-2024).</p> 
+  <p>In this research, I combine causal inference tools with machine learning and remote sensing to explore topics that were previously little explored due to data availability challenges. In my time at Berkeley, I also served as a Data Science & AI Fellow to the UC Berkeley's D-Lab (2023-2024).</p> 
 
   <p>Prior to my PhD, I also gained international research and policy experience as a Research Analyst at IFPRI, where I led data management and conducted quantitative analysis for impact evaluation projects in Mali and Burkina Faso, focusing on programs related to nutrition-sensitive cash transfers, childhood malnutrition and agriculture. I previously worked at the Organisation for Economic Cooperation and Development in France in the Higher Education Team within the Education Directorate and at the Experimentation Fund for Youth, carrying out social experimentations and impact evaluations to inform youth policy on behalf of the French government.</p>
   
