@@ -16,7 +16,7 @@ _Teaching assistant_
 
 - ENVECON 7: Disaster Risk Resilience
 - ENVECON 118: Introductory Applied Econometrics
-- ENVECON 100: Intermediate Microeconomics Applied to Sustainability
+- ENVECON 100: Intermediate Microeconomics Applied to Natural Resources and Sustainability
 - PP 249: Statistics for Program Evaluation (Goldman School of Public Policy), Master's level 
 - Workshop Leader for First-time GSIs Teaching Conference
 
@@ -28,4 +28,4 @@ _Teaching assistant_
 
 
 ## Awards
-- Outstanding Graduate Student Instructor, UC Berkeley 2022
+- Outstanding Graduate Student Instructor, UC Berkeley 2022 (awarded to top 10% of GSIs on campus based on student evaluations)
