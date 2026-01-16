@@ -47,11 +47,10 @@ For details about my research projects and working papers, see my [Research page
 - Instructed programming workshops for Stata, Python (spatial analysis; deep learning/machine learning), and R (spatial analysis and visualization) to campus community
 
 **Research Analyst, Poverty, Nutrition and Health** | International Food Policy Research Institute (IFPRI) | 2016-2019
+**Research Intern, Markets, Trade and Institutions** | International Food Policy Research Institute (IFPRI) | 2015-2016
 - Led midline and endline surveys for national cash transfer program evaluation in Mali, training and supervising 35 enumerators, coordinating field operations across four regions, and managing data collection for 4,000 respondents
 - Executed rigorous data cleaning, statistical analysis, and technical reporting for three large-scale randomized control trials in West Africa (cash transfer, agriculture, and childhood malnutrition)
 - Delivered research findings to government stakeholders, co-authored technical reports, and translated complex data insights into actionable, policy-relevant recommendations
-
-**Research Intern, Markets, Trade and Institutions** | IFPRI | 2015-2016
 
 **Intern, Directorate for Education and Skills** | Organisation for Economic Cooperation and Development (OECD) | 2015
 - Performed comprehensive literature reviews and executed benchmarking analyses to evaluate the comparative effectiveness of higher education systems across member countries
