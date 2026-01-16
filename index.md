@@ -54,15 +54,16 @@ classes: wide
 <div class="container-grid">
   <div class="column">
     <img src="/assets/images/Piste_rurale_de_Tayap.jpg" alt="Rural road in small Bassa village in Cameroon" class="portrait-photo"> 
-   <div class="photo-credit">Photo: Agripo, 2015</div>
+   <div class="photo-credit">Photo Credit: Agripo, 2015</div>
   </div>
 
  <div class="column">
-  <p>Welcome! I am a PhD candidate in the Department of Agricultural and Resource Economics at UC Berkeley. I am a development economist interested in urban/spatial economics, labor markets and gender. In my work, I combine empirical analysis with machine learning and remote sensing to be able to answer questions with a spatial component in contexts with little data.</p>
+  <p>Welcome!</p>
+   <p>I am a PhD candidate in the Department of Agricultural and Resource Economics at UC Berkeley. I am a development economist interested in urban/spatial economics, labor markets and gender.</p>
+     
+  <p>In my work, I combine empirical analysis with machine learning and remote sensing to be able to answer questions with a spatial component in contexts with little data.</p>
 
 <p>Click the links above to find some information about me.</p>
-
-<img src="/assets/images/leila_picture.jpg" alt="Leïla Njee Bugha" class="profile-photo-round">
 
 </div>
 </div>
