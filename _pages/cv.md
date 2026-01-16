@@ -60,7 +60,7 @@ For details about my research projects and working papers, see my [Research page
 - Presented research outcomes to government stakeholders and subject-matter experts
 - Organized dissemination workshops to government stakeholders and experts to capitalize on lessons learned from experiments
 
-** Field and Research Assistant** | The Abdul Latif Jameel Poverty Action Lab - Europe (France) | 2014
+**Field and Research Assistant** | The Abdul Latif Jameel Poverty Action Lab - Europe (France) | 2014
 - Monitored data collection and performed quality assurance of (at the time) largest primary survey across primary schools in France (Mediation sociale program evaluation)
 - Led and conducted phone surveys to parents, supervising 3 enumerators
 - Performed data analysis tasks as requested
@@ -94,7 +94,7 @@ For full teaching details, see my [Teaching page](/teaching/).
 ## Fellowships & Grants
 
 - Fundraised **$152,000** in research funds over 2019-2025
-- **Ecole Normale Supérieure de Paris-Saclay** "Grande Ecole" Full Scholarship | 2011-2015
+ **Ecole Normale Supérieure de Paris-Saclay** "Grande Ecole" Full Scholarship | 2011-2015
 
 ## Service & Leadership
 
@@ -104,13 +104,16 @@ For full teaching details, see my [Teaching page](/teaching/).
 - Organized and led online application bootcamp for 300+ prospective applicants to Berkeley economics PhDs
 - Mentored underrepresented students in economics through program access initiatives
 
+
 **Berkeley Economics Development Lunch Seminar Coordinator** | UC Berkeley | 2021-2022
+
 
 **Graduate Student Representative** | UC Berkeley's Rausser College Advisory Board | 2021-2024
 
 ## Languages
 
 **French** (native) | **English** (bilingual) | **German** (full proficiency)
+
 
 ---
 
