@@ -1,6 +1,7 @@
 ---
 layout: single 
 title: Leila Njee Bugha
+author_profile: false
 classes: wide
 ---
 <style>
@@ -20,7 +21,7 @@ classes: wide
 
 .container-grid {
   display: grid;
-  grid-template-columns: 35% 60%;
+  grid-template-columns: 55% 40%;
   gap: 5%;
   align-items: start;
   margin-top: 0;
