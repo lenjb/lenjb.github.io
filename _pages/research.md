@@ -25,15 +25,15 @@ author_profile: false
 
 ## Selected work in progress
 
-<strong>Spatial mismatch and employment in Nigerian cities</strong> 
+<par><strong>Spatial mismatch and employment in Nigerian cities</strong></par>
 <details style="margin-bottom:20px;padding-left: 40px;">
 	<summary>Abstract</summary>
 <div align="left" style="padding-left: 20px;line-height:15px"><p><small> I investigate whether poor urban spatial structure impedes labor market access in Nigerian cities by using city shape metrics as a proxy for transportation infrastructure quality, instrumenting with 1975 geography and projected population growth. Using administrative data from 98 cities (LSMS 2010, 2023) and primary survey data from 2,551 respondents across 13 cities (2025), I find that worse city shapes modestly reduce self-employment (0.23 percentage points for a one standard deviation increase in distortion) and increase commuting costs, but have minimal effects on overall labor force participation or hours worked. An alternative specification using instrumented distance to city center shows that living in cities with greater average distances increases self-employment by 0.37 percentage points but reduces formal employment by 0.24 percentage points, suggesting workers adjust to poor infrastructure by changing job types rather than leaving the labor market. I find no evidence that women are differentially affected by city shape, contrary to expectations about mobility constraints. The small magnitude of effects suggests that urban spatial structure in Nigerian cities affects employment composition more than employment levels, though weak instruments in some specifications limit causal interpretation. </small> </p>
 </div></details>
 
-<strong>The Agricultural and Environmental Costs of Urban Expansion in California</strong> with Fiona Griffin
+<par><strong>The Agricultural and Environmental Costs of Urban Expansion in California</strong> with Fiona Griffin</par>
 
-<strong> The Economic Costs of IPV </strong>
+<par><strong> The Economic Costs of IPV </strong></par>
 
 ## Non-academic writing
 
