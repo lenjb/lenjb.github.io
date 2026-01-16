@@ -34,3 +34,26 @@ author_profile: false
 <strong>The Agricultural and Environmental Costs of Urban Expansion in California</strong> with Fiona Griffin
 
 <strong> The Economic Costs of IPV </strong>
+
+## Non-academic writing
+
+### Technical Reports
+<ul>
+<li><i>Co-author</i>, <b>Filets Sociaux (Jigiséméjiri) Program Endline Report</b> (2019), IFPRI & IRD, Bamako </li>
+<li><i>Co-author</i>, <b>Filets Sociaux (Jigiséméjiri) Program Midline Report</b> (2018), IFPRI, Washington, DC. [PDF](https://hdl.handle.net/10568/146982)</li>
+<li><i>Co-author</i>, <b>Warrantage (Inventory Credit) in Burkina Faso Program Endline Report</b> (2016), IFPRI, DC.</li>
+</ul>
+
+### Policy and capitalization notes 
+<ul>
+	<li>(in French) <i>Co-author</i>Co-author, <b>Agir pour une orientation non sexiste</b> (2015), Observatoire de la Jeunesse / Fonds d’Expérimentation pour la Jeunesse (FEJ), <i>Jeunesses: Études et Synthèses No. 25</i>. [PDF](http://www.injep.fr/sites/default/files/documents/jes25_orientation_non_sexiste.pdf)</li>
+</ul>
+	
+### Blog writing
+<ul>
+	<li>[Tracking urban expansion through satellite imagery](https://medium.com/@dlab-berkeley/tracking-urban-expansion-through-satellite-imagery-5f51fe34e985) (_Medium_, May 2025)</li>
+	<li>[Using Big Data for Development Economics](https://medium.com/@dlab-berkeley/using-big-data-for-development-economics-97aacf975f01) (_Medium_, March 2024)</li>
+</ul>
+
+
+
