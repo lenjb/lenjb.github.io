@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /research_correct/
+permalink: /research/
 classes: wide
 author_profile: false
 ---
