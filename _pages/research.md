@@ -3,6 +3,7 @@ title: "Research"
 permalink: /research/
 classes: wide
 author_profile: false
+layout: page
 ---
 
 ## Working papers
@@ -51,11 +52,6 @@ author_profile: false
 - _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Endline Report** (2019), IFPRI & IRD, Bamako
 - _Co-author_, **Filets Sociaux (Jigiséméjiri) Program Midline Report** (2018), IFPRI, Washington, DC. [PDF](https://hdl.handle.net/10568/146982)
 - _Co-author_, **Warrantage (Inventory Credit) in Burkina Faso Program Endline Report** (2016), IFPRI, DC.
-
-list of things:
-- mark
-- jody
-- lila
 
 ### Policy and capitalization notes 
 	
