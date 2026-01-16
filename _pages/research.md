@@ -8,6 +8,7 @@ author_profile: false
 ## Working papers
 
 <par><strong>Evaluating Sites-and-Services in Kenya and Tanzania Through Satellite Imagery</strong> with Max Wu</par>
+<div><small><em>Draft available upon request</em></small>
 <!-- <div><small><em>Revisions requested at the Review of Environmental Economics and Policy</em>. Draft available upon request.</small></div> -->
 <details style="margin-bottom:20px;padding-left: 40px;">
 	<summary>Abstract</summary>
@@ -15,6 +16,7 @@ author_profile: false
 </div></details>
 
 <par><strong>Competition versus biology: Fertility dynamics in polygynous households in Mali</strong></par>
+<div><small><em>Draft available upon request</em></small>
 <!-- <div><small><em>Revisions requested at the Review of Environmental Economics and Policy</em>. Draft available upon request.</small></div> -->
 <details style="margin-bottom:20px;padding-left: 40px;">
 	<summary>Abstract</summary>
