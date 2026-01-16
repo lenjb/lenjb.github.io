@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 classes: wide
 author_profile: false
-layout: page
+layout: single
 ---
 
 ## Working papers
