@@ -1,10 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 author_profile: false
 ---
 
-<img src="/assets/images/lenb_photo.jpeg" alt="Leïla Njee Bugha" style="float: right; width: 350px; margin-left: 25px; margin-bottom: 20px; border-radius: 10px;">
+<img src="/assets/images/lenb_photo.jpeg" alt="Leïla Njee Bugha" style="float: right; width: 450px; margin-left: 25px; margin-bottom: 20px; border-radius: 10px;">
 
 I am a PhD Candidate in Agricultural and Resource Economics at UC Berkeley. 
 
