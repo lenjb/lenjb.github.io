@@ -30,6 +30,7 @@ Paris-Sorbonne University IV (France), _2012_
 ## Research
 
 For details about my research projects and working papers, see my [Research page](/research/).
+See below specific data/process accomplishments.
 
 ### Selected Research Projects
 
@@ -53,19 +54,19 @@ University of California, Berkeley, _2023-2024_
 - Participated in practical programming working group to improve data and research transparency practices (efficient coding, data storage and management, code reproducibility, GitHub/Git)
 - Instructed programming workshops for Stata, Python (spatial analysis; deep learning/machine learning), and R (spatial analysis and visualization) to campus community
 
-**Research Analyst, Poverty, Nutrition and Health**<br>
-**Research Intern, Markets, Trade and Institutions**<br>
+**Research Analyst, _Poverty, Nutrition and Health_**<br>
+**Research Intern, _Markets, Trade and Institutions_**<br>
 International Food Policy Research Institute (IFPRI), _2015-2019_
 
 - Led midline and endline surveys for national cash transfer program evaluation in Mali, training and supervising 35 enumerators, coordinating field operations across four regions, and managing data collection for 4,000 respondents
 - Executed rigorous data cleaning, statistical analysis, and technical reporting for three large-scale randomized control trials in West Africa (cash transfer, agriculture, and childhood malnutrition)
 - Delivered research findings to government stakeholders, co-authored technical reports, and translated complex data insights into actionable, policy-relevant recommendations
 
-**Intern, Directorate for Education and Skills**<br> 
+**Intern, _Directorate for Education and Skills_**<br> 
 Organisation for Economic Cooperation and Development (France), _2015_
 - Performed comprehensive literature reviews and executed benchmarking analyses to evaluate the comparative effectiveness of higher education systems across member countries
 
-**Junior Analyst, Experimental Fund for Youth**<br>
+**Junior Analyst, _Experimental Fund for Youth_**<br>
 Youth, Urban Affairs and Sports Ministry (France), _2014-2015_
 - Launched calls for innovative experiments and evaluated experimental designs and their ability to drive evidence-based policy-making
 - Presented research outcomes to government stakeholders and subject-matter experts
@@ -110,15 +111,20 @@ For full teaching details, see my [Teaching page](/teaching/).
 
 ## Service & Leadership
 
-**Peer Partner to [Development Impact West Africa](https://cega.berkeley.edu/initiative/diwa/&ved=2ahUKEwjU0I62_tyIAxWOATQIHTqDCBIQFnoECAwQAQ&usg=AOvVaw0wOjF_k2atud5gFKvJr_Q-) Fellow** \| Center for Effective Global Action \| 2021, 2024
+**Peer Partner to [Development Impact West Africa](https://cega.berkeley.edu/initiative/diwa/&ved=2ahUKEwjU0I62_tyIAxWOATQIHTqDCBIQFnoECAwQAQ&usg=AOvVaw0wOjF_k2atud5gFKvJr_Q-) Fellow**<br>
+Center for Effective Global Action, _2021, 2024_
 
-**Leadership Team, Graduate Admissions** \| Berkeley Economists for Equity \| 2021-2023
+**Leadership Team, Graduate Admissions**<br>
+Berkeley Economists for Equity, _2021-2023_
+
 - Organized and led online application bootcamp for 300+ prospective applicants to Berkeley economics PhDs [Slides](/assets/pdfs/bootcamp_slides.pdf)
 - Mentored underrepresented students in economics through program access initiatives
 
-**Berkeley Economics Development Lunch Seminar Coordinator** \| UC Berkeley \| 2021-2022
+**Berkeley Economics Development Lunch Seminar Coordinator**<br>
+University of California, Berkeley, _2021-2022_
 
-**Graduate Student Representative** \| UC Berkeley's Rausser College Advisory Board \| 2021-2024
+**Graduate Student Representative**<br>
+UC Berkeley's Rausser College Advisory Board, _2021-2024_
 
 ## Languages
 
