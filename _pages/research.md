@@ -7,7 +7,7 @@ author_profile: false
 
 ## Working papers
 
-**Spatial mismatch and employment in Nigerian cities** [PDF](../assets/pdfs/Nigerian_cities_paper(Njee)_042126.pdf)
+**Spatial mismatch and employment in Nigerian cities** [(PDF)](../assets/pdfs/Nigerian_cities_paper(Njee)_042126.pdf)
 
 <details style="margin-bottom:20px;padding-left: 40px;">
 <summary>Abstract</summary>
@@ -16,7 +16,7 @@ author_profile: false
 </div>
 </details>
 
-**Competition versus biology: Fertility dynamics in polygynous households in Mali** [PDF](../assets/pdfs/Polygamy_fertility_Mali(Njee).pdf)
+**Competition versus biology: Fertility dynamics in polygynous households in Mali** [(PDF)](../assets/pdfs/Polygamy_fertility_Mali(Njee).pdf)
 
 <details style="margin-bottom:20px;padding-left: 40px;">
 <summary>Abstract</summary>
@@ -28,8 +28,6 @@ author_profile: false
 ## Selected work in progress
 
 **Evaluating Sites-and-Services in Kenya and Tanzania Through Satellite Imagery** with Max Wu
-
-*Draft available upon request*
 
 <details style="margin-bottom:20px;padding-left: 40px;">
 <summary>Abstract</summary>
